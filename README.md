@@ -10,6 +10,7 @@
 | [0595-big-countries](https://github.com/Ayush-Codes-11/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/Ayush-Codes-11/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [1148-article-views-i](https://github.com/Ayush-Codes-11/LeetCode-Solutions/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Ayush-Codes-11/LeetCode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Ayush-Codes-11/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Ayush-Codes-11/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Ayush-Codes-11/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
